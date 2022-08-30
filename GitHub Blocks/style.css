@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.blue-row {
+    justify-content: space-between;
+    display: flex;
+    padding: 20px;
+    background-color: skyblue;
+}
+
+.pink-row {
+    justify-content:space-around;
+    display: flex;
+    padding: 20px;
+    background-color: #e8ccd7;
+}
+
+.white-row {
+    justify-content: space-between;
+    display: flex;
+    padding: 20px;
+    background-color: white;
+}
